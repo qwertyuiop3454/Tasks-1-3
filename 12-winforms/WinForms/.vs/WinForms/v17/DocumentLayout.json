@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\mybindinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\mybindinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|c:\\users\\barli\\desktop\\12-winforms\\winforms\\winforms\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E4D7-792A-43C3-8FA7-7A9F97872120}|WinForms\\WinForms.csproj|solutionrelative:winforms\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form2.cs",
+              "RelativeToolTip": "WinForms\\Form2.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAgwJcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:11:15.057Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form3.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form3.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form3.cs",
+              "RelativeToolTip": "WinForms\\Form3.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:27:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form3.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form3.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinForms\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:23:03.962Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinForms\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:18:10.445Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\List.cs",
+              "RelativeDocumentMoniker": "WinForms\\List.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\List.cs",
+              "RelativeToolTip": "WinForms\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:18:47.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyBindingList.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\MyBindingList.cs",
+              "RelativeDocumentMoniker": "WinForms\\MyBindingList.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\MyBindingList.cs",
+              "RelativeToolTip": "WinForms\\MyBindingList.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:16:35.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Reward.cs",
+              "RelativeDocumentMoniker": "WinForms\\Reward.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Reward.cs",
+              "RelativeToolTip": "WinForms\\Reward.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:33:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form1.cs",
+              "RelativeToolTip": "WinForms\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:11:06.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\User.cs",
+              "RelativeDocumentMoniker": "WinForms\\User.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\User.cs",
+              "RelativeToolTip": "WinForms\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:00:03.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\barli\\Desktop\\12-winforms\\WinForms\\WinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:41:39.756Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
